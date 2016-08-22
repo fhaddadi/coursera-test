@@ -1,0 +1,78 @@
+#header-nav {
+	background-color: yellow;
+	border-radius: 0;
+	margin: 0;
+
+}
+
+.navbar-toggle {
+	background-color: blue;
+}
+
+
+.row {
+	margin-bottom: 10px;
+	background-color: #908F8C;
+}
+
+
+#top a:link {
+	text-decoration: underline;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+
+
+
+#nav-content li {
+	background-color: white;
+	font-size: 1.5em;
+	border: 1px solid black;
+	padding: 0;
+	height: 50px;
+}
+
+
+
+
+#nav-menu {
+	margin-bottom: 0;
+	margin-top: 0;
+}
+
+#nav-content {
+	margin-top: 0;
+	margin-bottom: 0;
+	vertical-align: middle;
+	padding-top: 5px
+	margin-bottom: 5px;
+}
+
+#chicken {
+	padding-top: 10px;
+}
+
+#beef {
+	padding-top: 10px;
+}
+
+#sushi {
+	padding-top: 10px;
+}
+
+#nav-content a {
+	cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
